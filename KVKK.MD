@@ -1,1 +1,1 @@
-KVKK metni girilecek
+SafeArea, 6698 sayılı kanun kapsamında daha güvenli ve gerektiği şekilde hizmet verebilmek için ad, soyad, iletişim bilgisi (telefon numarası), sağlık bilgisi, mevcut durumunuz ve konumunuzu veri sorumlusu olarak platform tarafından işlenir ve depolanır. Verileriniz daha kullanılabilir hale getirmek için güncellenebilir/yeniden düzenlenebilir.
