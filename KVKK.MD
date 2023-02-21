@@ -14,12 +14,13 @@ Kişisel verileriniz, elle tutulabilir ve daha anlaşılabilir olması amacıyla
 <h2>Kişisel verilerin aktarılması</h2>
 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun kişisel verilerin aktarılmasına ilişkin 8. maddesi ve kişisel verilerin yurt dışına aktarılmasına ilişkin 9. maddesi kapsamında yukarıda saydığımız kişiesl verileriniz; kanunen yetkili kamu ve kuruluşları ve kanunen yetkilendirilmiş özel kuruluş/şirketlere aktarılabilecektir.
 <h2>Veri Sahiplerinin Hakları</h2>
-6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesi gereğince;
+6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesi gereğince veri sahiplerinin;
 <ul>
   <li>Kişisel verileriniz işlenip işlenmediğini öğrenme,</li>
   <li>İşlendiyse, amacı ve daha ayrıntılı bilgi talep etme,</<li>
   <li>Verilerinizin SafeArea depolarından tamamen kaldırılması,</li>
-  <li>Kişisel verilerinizin yurt içinde / yurt dışında aktarılan yetkili kurum ve kişiler,</li>
+  <li>Kişisel verilerinizin yurt içinde / yurt dışında aktarılan yetkili kurum ve kişileri öğrenme</li>
+hakları bulunuyor.
 </ul>
 <h2>Veri Eklenmesine Dair</h2>
 SafeArea üzerinden depremzede bilgisi ekleyen kullanıcılar; bilgilerin asılsız olması, yalan bilgi içermesi durumunda sorumlu tutulur.
